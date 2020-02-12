@@ -5,8 +5,20 @@
 1581263721 source:/home/noob_coder/Documents/C/DS/node.c
 	<malloc.h>
 
-1581322002 source:/home/noob_coder/Documents/C/DS/SingleLinkedList.c
+1581441367 source:/home/noob_coder/Documents/C/DS/SingleLinkedList.c
 	<stdio.h>
 	<malloc.h>
 	<stdlib.h>
+
+1581354250 source:/home/noob_coder/Documents/Algorithm/BinarySearch.c
+	<stdio.h>
+
+1581353318 source:/home/noob_coder/Documents/Algorithm/InsertionSort.c
+	<stdio.h>
+
+1581440819 source:/home/noob_coder/Documents/C/DS/CompareList.h
+	<stdio.h>
+
+1581440819 /home/noob_coder/Documents/C/DS/CompareList.h
+	<stdio.h>
 
